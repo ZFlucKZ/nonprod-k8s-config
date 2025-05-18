@@ -3,4 +3,4 @@ data:
   PORT: "8080"
 kind: ConfigMap
 metadata:
-  name: webapp-td2thftdb5
+  name: webapp
