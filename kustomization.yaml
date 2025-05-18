@@ -4,6 +4,6 @@ kind: Kustomization
 configMapGenerator:
 ################# Web App #################
 - name: webapp
-  namespace: ducky
+  # namespace: ducky
   envs:
   - ./webapp/.env
